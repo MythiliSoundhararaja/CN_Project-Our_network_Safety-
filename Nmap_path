@@ -1,0 +1,2 @@
+nmap_path = r'C:\Program Files (x86)\Nmap'  # Update this path as necessary
+os.environ["PATH"] += os.pathsep + nmap_path
